@@ -1,0 +1,9 @@
+﻿  Entity.cpp
+C:\Users\waria\source\repos\TestProject01\TestProject01\Entity.cpp(96,44): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\waria\source\repos\TestProject01\TestProject01\Entity.cpp(110,45): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+  HealthComponent.cpp
+  TestProject01.cpp
+  Transform.cpp
+  Vector2.cpp
+  Generowanie kodu...
+  TestProject01.vcxproj -> C:\Users\waria\source\repos\TestProject01\Debug\TestProject01.exe
