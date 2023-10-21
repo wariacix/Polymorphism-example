@@ -10,4 +10,4 @@ Small project featuring:
 
 -Operator overload
 
-... and all that with an RPG spin!
+... and all that with a RPG spin!
