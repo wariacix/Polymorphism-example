@@ -1,5 +1,6 @@
 # C++ Polymorphism example
 Small project featuring:
+
 -Inheritance
 -Virtual methods & classes
 -The diamond problem
